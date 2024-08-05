@@ -64,7 +64,7 @@
 
 #define USBD_VID     0x2b70
 #define USBD_LANGID_STRING     1033
-#define USBD_MANUFACTURER_STRING     "Hogehoge"
+#define USBD_MANUFACTURER_STRING     "NANO TS"
 #define USBD_PID_HS     0x1234
 #define USBD_PRODUCT_STRING_HS     "Original DFU bootloader"
 #define USBD_CONFIGURATION_STRING_HS     "DFU Config"
