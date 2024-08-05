@@ -1,0 +1,7 @@
+../USB_DEVICE/App/usbd_dfu_if.c:159:10:MEM_If_Init_HS	8	static
+../USB_DEVICE/App/usbd_dfu_if.c:171:10:MEM_If_DeInit_HS	8	static
+../USB_DEVICE/App/usbd_dfu_if.c:184:10:MEM_If_Erase_HS	48	static
+../USB_DEVICE/App/usbd_dfu_if.c:216:10:MEM_If_Write_HS	40	static
+../USB_DEVICE/App/usbd_dfu_if.c:249:10:MEM_If_Read_HS	32	static
+../USB_DEVICE/App/usbd_dfu_if.c:271:10:MEM_If_GetStatus_HS	24	static
+../USB_DEVICE/App/usbd_dfu_if.c:299:9:convertAddressToSector	24	static
